@@ -24,6 +24,7 @@ Patients become rapidly less infectious within a week, although virus remains in
 
 ## References:
 [1] - Temporal dynamics in viral shedding and transmissibility of COVID-19 - https://www.nature.com/articles/s41591-020-0869-5.pdf
+
 [2] - Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7121484/
 
 Other Interesting Links:
