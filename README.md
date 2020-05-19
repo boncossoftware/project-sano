@@ -17,9 +17,9 @@ Use indoor outdoor principle of ventilation. Indoor poorly ventilated areas in w
 Location limits. Helps you keep track and limit the total number of places you visit in a day. 
 
 ## Covid-19 observations based on research:
-On average, a patient is infectious 2.3 days	before onset of symptoms.
-Highest level of potential viral spreading is likely to peak a few hours before symptoms appear.
-Patients become rapidly less infectious within a week, although virus remains in body for some time.
+On average, a patient is infectious 2.3 days	before onset of symptoms.[1]
+Highest level of potential viral spreading is likely to peak a few hours before symptoms appear.[1]
+Patients become rapidly less infectious within a week, although virus remains in body for some time.[1]
 44 percent of SARS-CoV-2 transmissions occur before people get sick [2]
 
 ## References:
